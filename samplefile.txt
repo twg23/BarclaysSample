@@ -1,3 +1,4 @@
 customer id : 9087 
 dob: 16/9/1997\
-car registration: fj67grt 
+car registration: fj67grt
+bank account: barclays  
